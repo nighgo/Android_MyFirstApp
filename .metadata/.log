@@ -11,3 +11,23 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2014-03-11 20:36:26.886
 !MESSAGE Failed to load properties file for project 'MyFirstApp'
+!SESSION 2014-03-12 17:54:20.267 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/tukurite773/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/tukurite773/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-12 17:54:43.408
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-03-12 22:11:20.757 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/tukurite773/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/tukurite773/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-03-12 22:11:34.097
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
